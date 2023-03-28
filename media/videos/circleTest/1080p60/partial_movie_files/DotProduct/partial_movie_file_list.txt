@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/manimProjects/media/videos/circleTest/1080p60/partial_movie_files/DotProduct/1413466013_2669217528_1817755192.mp4'
+file 'file:D:/manimProjects/media/videos/circleTest/1080p60/partial_movie_files/DotProduct/1672018281_645682970_1999815646.mp4'
+file 'file:D:/manimProjects/media/videos/circleTest/1080p60/partial_movie_files/DotProduct/1672018281_387617126_1581340294.mp4'
+file 'file:D:/manimProjects/media/videos/circleTest/1080p60/partial_movie_files/DotProduct/1672018281_1034105594_4174018169.mp4'
+file 'file:D:/manimProjects/media/videos/circleTest/1080p60/partial_movie_files/DotProduct/1672018281_3026927184_2215987019.mp4'
+file 'file:D:/manimProjects/media/videos/circleTest/1080p60/partial_movie_files/DotProduct/1672018281_3294425060_398980357.mp4'
